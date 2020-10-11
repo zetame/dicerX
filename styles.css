@@ -1,0 +1,16 @@
+#rollbutton {
+
+   display: block;
+   width: 200px;
+   height: 80px;
+   margin-left: 8.0%;
+   font-size: 50px;
+   border-radius: 25%;
+    
+}
+
+#startdice {
+
+    max-width: 500px;
+    height: auto;
+}
