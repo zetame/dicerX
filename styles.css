@@ -1,16 +1,33 @@
 #rollbutton {
 
-   display: block;
+
    width: 200px;
    height: 80px;
-   margin-left: 8.0%;
-   font-size: 50px;
+   font-size: 30px;
+   margin: 0 auto;
+   padding: 0;
+   border: 10px;
    border-radius: 25%;
+   position: relative;
+   display: inline-block;
+   line-height: 50px;
+   text-align: center
+   
+   
+   
     
 }
 
 #startdice {
-
+    display: flex;
     max-width: 500px;
     height: auto;
+    justify-content: center;
+    align-content: center;
+}
+
+div {
+    
+    text-align: center;
+
 }
