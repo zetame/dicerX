@@ -1,6 +1,4 @@
 
-const numbers = [1,2,3,4,5,6];
-const diceNumber = Math.floor(Math.random() * numbers.length);
 
 function playBeep () {
 
@@ -9,6 +7,9 @@ function playBeep () {
 }
 
 function roll1 () {
+
+    var numbers = [1,2,3,4,5,6];
+    var diceNumber = Math.floor(Math.random() * numbers.length);
     
     
 
@@ -88,6 +89,10 @@ function roll1 () {
 
 
 function roll2 () {
+
+    var numbers = [1,2,3,4,5,6];
+    var diceNumber = Math.floor(Math.random() * numbers.length);
+    
     
     
 
