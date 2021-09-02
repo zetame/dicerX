@@ -9,7 +9,7 @@
    height: auto;
    width: auto;
    margin: 5px;
-   margin-left: 60%;
+   margin-left: 40%;
    box-shadow: 3px 4px 0px 0px #484901;
    background:linear-gradient(to bottom, #edf0dc 5%, #d6ec0a 100%);
    
@@ -31,10 +31,10 @@
     border: 5px;
     border-radius: 50%;
     display: flex;
-    max-width: 275px;
-    max-height: 275px;
+    max-width: 250px;
+    max-height: 250px;
     height: auto;
-    margin-left: 30%;
+    margin-left: 10%;
 }
 
 
