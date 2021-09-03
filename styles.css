@@ -1,20 +1,23 @@
 .button {
    
    position: relative;
-   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    background-color: gold;
    max-width: 200px;
    max-height: 80px;
    font-size: 30px;
+   
    height: auto;
    width: auto;
    margin: 5px;
    margin-left: 40%;
    box-shadow: 3px 4px 0px 0px #484901;
-   background:linear-gradient(to bottom, #edf0dc 5%, #d6ec0a 100%);
+   background:linear-gradient(to bottom, #edf0dc 10%, #d6ec0a 100%);
    
-   border: 10px;
+   border: outset 2px;
    border-radius: 25%;
+   border-color: pink;
+
    line-height: 50px;
    text-align: center
    
@@ -28,15 +31,24 @@
 .dice {
     position: relative;
     margin: 10px;
-    border: 5px;
+    border: inset 2px;
     border-radius: 50%;
+    border-color: rgb(4, 175, 161);
     display: flex;
     max-width: 250px;
     max-height: 250px;
     height: auto;
     margin-left: 10%;
+    
 }
 
+#startdice1 {
+    background-color: red;
+}
+
+#startdice2 {
+    background-color: blue;
+}
 
 body {
     display: flex;

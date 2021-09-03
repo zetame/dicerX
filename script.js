@@ -21,7 +21,7 @@ function roll1 () {
         
         playBeep ();
         
-        setTimeout(() => {  location.reload(); }, 7000);
+        setTimeout(() => {  location.reload(); }, 6000);
 
 
 
@@ -34,7 +34,7 @@ function roll1 () {
         document.getElementById("rollbutton1").innerHTML = "2";
         playBeep ();
         
-        setTimeout(() => {  location.reload(); }, 7000);
+        setTimeout(() => {  location.reload(); }, 6000);
 
 
     }
@@ -46,7 +46,7 @@ function roll1 () {
         document.getElementById("rollbutton1").innerHTML = "3";
         playBeep ();
         
-        setTimeout(() => {  location.reload(); }, 7000);
+        setTimeout(() => {  location.reload(); }, 6000);
 
 
     }
@@ -58,7 +58,7 @@ function roll1 () {
         document.getElementById("rollbutton1").innerHTML = "4";
         playBeep ();
         
-        setTimeout(() => {  location.reload(); }, 7000);
+        setTimeout(() => {  location.reload(); }, 6000);
 
     }
 
@@ -69,7 +69,7 @@ function roll1 () {
         document.getElementById("rollbutton1").innerHTML = "5";
         playBeep ();
         
-        setTimeout(() => {  location.reload(); }, 7000);
+        setTimeout(() => {  location.reload(); }, 6000);
 
     }
 
@@ -80,7 +80,7 @@ function roll1 () {
         document.getElementById("rollbutton1").innerHTML = "6";
         playBeep ();
         
-        setTimeout(() => {  location.reload(); }, 7000);
+        setTimeout(() => {  location.reload(); }, 6000);
 
     }
 
@@ -103,7 +103,7 @@ function roll2 () {
         document.getElementById("rollbutton2").innerHTML = "1";
         playBeep ();
         
-        setTimeout(() => {  location.reload(); }, 7000);
+        setTimeout(() => {  location.reload(); }, 6000);
 
 
 
@@ -116,7 +116,7 @@ function roll2 () {
         document.getElementById("rollbutton2").innerHTML = "2";
         playBeep ();
         
-        setTimeout(() => {  location.reload(); }, 7000);
+        setTimeout(() => {  location.reload(); }, 6000);
 
 
     }
@@ -128,7 +128,7 @@ function roll2 () {
         document.getElementById("rollbutton2").innerHTML = "3";
         playBeep ();
         
-        setTimeout(() => {  location.reload(); }, 7000);
+        setTimeout(() => {  location.reload(); }, 6000);
 
 
     }
@@ -140,7 +140,7 @@ function roll2 () {
         document.getElementById("rollbutton2").innerHTML = "4";
         playBeep ();
         
-        setTimeout(() => {  location.reload(); }, 7000);
+        setTimeout(() => {  location.reload(); }, 6000);
 
     }
 
@@ -151,7 +151,7 @@ function roll2 () {
         document.getElementById("rollbutton2").innerHTML = "5";
         playBeep ();
         
-        setTimeout(() => {  location.reload(); }, 7000);
+        setTimeout(() => {  location.reload(); }, 6000);
 
     }
 
@@ -162,7 +162,7 @@ function roll2 () {
         document.getElementById("rollbutton2").innerHTML = "6";
         playBeep ();
         
-        setTimeout(() => {  location.reload(); }, 7000);
+        setTimeout(() => {  location.reload(); }, 6000);
 
     }
 
