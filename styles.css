@@ -1,7 +1,7 @@
 .button {
    
    position: relative;
-   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
    background-color: gold;
    max-width: 200px;
    max-height: 80px;
@@ -28,6 +28,10 @@
     
 }
 
+.button:hover {
+    color: rgb(41, 160, 41);
+}
+
 .dice {
     position: relative;
     margin: 10px;
@@ -35,8 +39,8 @@
     border-radius: 50%;
     border-color: rgb(4, 175, 161);
     display: flex;
-    max-width: 250px;
-    max-height: 250px;
+    max-width: 230px;
+    max-height: 230px;
     height: auto;
     margin-left: 10%;
     
